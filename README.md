@@ -11,6 +11,7 @@
     - [Privilege Escalation](#privilege-escalation)
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
+- [PracticeSites](#practice-sites)
 
 ## Resources
 
@@ -78,3 +79,7 @@
 - [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com.au/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
 - [RTFM: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (2nd Edition)](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
+
+#### Practice Sites
+
+- [Hackthebox](https://hackthebox.eu)
