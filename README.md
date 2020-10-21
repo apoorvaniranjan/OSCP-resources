@@ -58,3 +58,23 @@
 - [Level Up! Practical Windows Privilege Escalation by Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 - [Linux privilege escalation by Jake Williams](https://www.youtube.com/watch?v=dk2wsyFiosg)
+
+### Other OSCP Resources
+
+- [PWK Syllabus](https://www.offensive-security.com/documentation/penetration-testing-with-kali.pdf)
+- [OSCP-Prep-Resources](https://github.com/burntmybagel/OSCP-Prep)
+- [Offensive Security Bookmarks](https://jivoi.github.io/2015/07/03/offensive-security-bookmarks/)
+- [The how to get the OSCP certification wiki](https://www.peerlyst.com/posts/the-how-to-get-the-oscp-certification-wiki-peerlyst)
+- [OSCP Goldmine](http://0xc0ffee.io/blog/OSCP-Goldmine)
+- [Penetration Testing Study Notes](https://github.com/AnasAboureada/Penetration-Testing-Study-Notes)
+- [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms)
+- [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
+- [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
+- [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
+
+#### Books
+
+- [Penetration Testing: A Hands-on Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+- [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com.au/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+- [RTFM: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws (2nd Edition)](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting-ebook/dp/B005LVQA9S)
