@@ -12,6 +12,7 @@
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
 - [PracticeSites](#practice-sites)
+- [Youtube Channels] (#youtube-channels)
 
 ## Resources
 
@@ -83,3 +84,11 @@
 #### Practice Sites
 
 - [Hackthebox](https://hackthebox.eu)
+- [VulnHub](https://vulnhub.com)
+- [TryHackMe](https://tryhackme.com)
+- [Wargames](https://overthewire.org/wargames)
+
+#### Youtube Channels
+
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [JohnHammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
