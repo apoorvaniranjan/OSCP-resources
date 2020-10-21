@@ -26,3 +26,35 @@
 - [OSCP Preparation Notes](https://www.jpsecnetworks.com/category/oscp/)
 - [A Detailed Guide on OSCP Preparation – From Newbie to OSCP](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
 - [My Fight for OSCP](https://alphacybersecurity.tech/my-fight-for-the-oscp/)
+
+### Cheatsheets and Scripts
+
+- [Luke's Practical hacking tips and tricks](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97)
+- [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+- [How to Pass OSCP](https://gist.github.com/unfo/5ddc85671dcf39f877aaf5dce105fac3)
+- [Reverse Shell Cheat Sheet](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
+- [7 Linux Shells Using Built-in Tools](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
+- [Windows Exploit Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
+- [Linux Exploit Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester)
+- [OSCPRepo](https://github.com/rewardone/OSCPRepo)
+- [Go-for-OSCP](https://github.com/pythonmaster41/Go-For-OSCP)
+- [Pentest Compilation](https://github.com/adon90/pentest_compilation)
+- [Collection of OSCP scripts](https://github.com/ihack4falafel/OSCP)
+
+### Topics
+
+#### Buffer Overflow
+- [Corelan's Exploit writing tutorial part 1 : Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+- [Justin's DoStackBufferOverflowGood](https://github.com/justinsteven/dostackbufferoverflowgood)
+- [Writing Exploits for Win32 Systems from Scratch](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch/)
+- [32-Bit Windows Buffer Overflows Made Easy](https://veteransec.com/2018/09/10/32-bit-windows-buffer-overflows-made-easy/)
+- [Introduction to Buffer Overflow Video](https://www.youtube.com/watch?v=1S0aBV-Waeo)
+- [OverTheWire's Narnia Wargame](http://overthewire.org/wargames/narnia/)
+
+#### Privilege Escalation
+- [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+- [Common Windows Privilege Escalation Vectors](https://toshellandback.com/2015/11/24/ms-priv-esc/)
+- [Encyclopaedia Of Windows Privilege Escalation by Brett Moore](https://www.youtube.com/watch?v=kMG8IsCohHA)
+- [Level Up! Practical Windows Privilege Escalation by Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
+- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+- [Linux privilege escalation by Jake Williams](https://www.youtube.com/watch?v=dk2wsyFiosg)
