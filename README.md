@@ -12,7 +12,7 @@
   - [Other OSCP Resources](#other-oscp-resources)
     - [Books](#books)
 - [PracticeSites](#practice-sites)
-- [Youtube Channels] (#youtube-channels)
+- [Youtube Channels](#youtube-channels)
 
 ## Resources
 
